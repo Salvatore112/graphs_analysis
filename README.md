@@ -20,8 +20,8 @@
 
 ### Кратчайшие пути:
 
-• Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**
+• Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**, **Gunrock**
 
 ### PageRank:
 
-• Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**
+• Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**, **Gunrock**
