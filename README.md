@@ -16,7 +16,7 @@
        Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**
     
 •   **Алгоритм Прима:**
-       Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**
+       Реализация на **Spla**, **Google Pregel (GraphX (Apache Spark))**, **Gunrock**
 
 ### Кратчайшие пути:
 
