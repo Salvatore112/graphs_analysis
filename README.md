@@ -13,7 +13,7 @@
 ### Остовные деревья:
 
 •   **Алгоритм Борувки:**
-       Реализация на **SuiteSparse:GraphBLAS** и **Google Pregel (GraphX (Apache Spark))**
+       Реализация на **SuiteSparse:GraphBLAS** и **Google Pregel (PregelPlus)**
     
 •   **Алгоритм Прима:**
        Реализация на **Spla**, **Google Pregel (GraphX (Apache Spark))**, **Gunrock**
