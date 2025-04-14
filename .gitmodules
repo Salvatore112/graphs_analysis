@@ -1,0 +1,3 @@
+[submodule "triangle-counting-graphblas-vs-apache-spark"]
+	path = triangle-counting-graphblas-vs-apache-spark
+	url = git@github.com:toadharvard/triangle-counting-graphblas-vs-apache-spark.git
