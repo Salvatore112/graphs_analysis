@@ -33,3 +33,6 @@
 
 - [Презентация 1](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_1.pdf)
 - [Презентация 2 (Борувка)](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_2_Boruvka.pdf) 
+
+## Эксперементы:
+- [Борувка. GraphBLAS vs Pregel+](https://github.com/Salvatore112/graphs_analysis/blob/main/boruvka-graphblas-vs-pregelplus/mst_experiment.ipynb) 
