@@ -1,0 +1,14 @@
+build/
+graphblas-binaries/
+results/1.txt
+results/2.txt
+results/3.txt
+results/4.txt
+results/5.txt
+results/6.txt
+results/7.txt
+results/8.txt
+results/9.txt
+*.mtx
+*.csv
+
