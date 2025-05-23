@@ -8,31 +8,24 @@
 ### Треугольники:
 
 •   **Sandia:**
-       Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**
+       Реализация на **Spla** GPU и Intel OpenCL runtime (Кузнецов)
        
 •   **Burkhardt:**
-       Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark))**
+       Реализация на **Spla** GPU и Intel OpenCL runtime (Кузнецов)
+
+•   **Gunrock Triangle Counting** (Кузнецов)
 
 ### Остовные деревья:
 
 •   **Алгоритм Борувки:**
-       Реализация на **SuiteSparse:GraphBLAS** и **Google Pregel (PregelPlus)**
+       Реализация на **SuiteSparse:GraphBLAS** и **Google Pregel (PregelPlus)** (Аверин)
     
-•   **Алгоритм Прима:**
-       Реализация на **Spla**, **Google Pregel (GraphX (Apache Spark))**, **Gunrock**
-
-### Кратчайшие пути:
-
-• Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark), реализация на Java)**, **Gunrock**
-
-### PageRank:
-
-• Реализация на **Spla** и **Google Pregel (GraphX (Apache Spark), реализация на Java, Python, Ruby)**, **Gunrock**
-
 ## Презентации:
 
 - [Презентация 1](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_1.pdf)
 - [Презентация 2 (Борувка)](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_2_Boruvka.pdf) 
+- [Презентация 2 (Подсчет треугольников SPLA vs Gunrock)](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_2_tc_Gunrock_vs_Spla.pdf) 
 
 ## Эксперементы:
 - [Борувка. GraphBLAS vs Pregel+](https://github.com/Salvatore112/graphs_analysis/blob/main/boruvka-graphblas-vs-pregelplus/mst_experiment.ipynb) 
+- [Подсчет треугольников. Gunrock vs SPLA](https://github.com/Kuarni/triangle-counting-spla-vs-gunrock) 
