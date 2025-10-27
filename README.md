@@ -15,6 +15,12 @@
 
 •   **Gunrock Triangle Counting** (Кузнецов)
 
+•   **Sandia:**
+       Реализация на **GraphBLAS** и **Apache Spark** (Якшигулов)
+       
+•   **Burkhardt:**
+       Реализация на **GraphBLAS** и **Apache Spark** (Якшигулов)
+
 ### Остовные деревья:
 
 •   **Алгоритм Борувки:**
@@ -24,7 +30,8 @@
 
 - [Презентация 1](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_1.pdf)
 - [Презентация 2 (Борувка)](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_2_Boruvka.pdf) 
-- [Презентация 2 (Подсчет треугольников SPLA vs Gunrock)](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_2_tc_Gunrock_vs_Spla.pdf) 
+- [Презентация 2 (Подсчет треугольников SPLA vs Gunrock)](https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_2_tc_Gunrock_vs_Spla.pdf)
+- [Презентация 2 (Подсчет треугольников GraphBLAS и Apache Spark, сравнение стандартной реализации и Sandia в Apache Spark)(https://github.com/Salvatore112/graphs_analysis/blob/main/presentation_2_GraphBLAS_Spark.pdf)
 
 ## Эксперементы:
 - [Борувка. GraphBLAS vs Pregel+](https://github.com/Salvatore112/graphs_analysis/blob/main/boruvka-graphblas-vs-pregelplus/mst_experiment.ipynb) 
